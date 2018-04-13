@@ -1,0 +1,25 @@
+img {
+  position: absolute;
+  margin: 200px 545px;
+}
+
+form {
+  position: absolute;
+  margin: 300px 500px;
+}
+
+input {
+  height: 50px;
+  width: 350px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+  display: inline;
+  float: left;
+}
